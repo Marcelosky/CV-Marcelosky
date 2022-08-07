@@ -30,13 +30,14 @@ h1 {
 }
 
 h3 {
-
+  font-family: cursive;
   filter: invert(50%);
 }
 
 h2 {
   margin: 10%;
   filter: invert(50%);
+  font-family: cursive;
 }
 
 h4 {
