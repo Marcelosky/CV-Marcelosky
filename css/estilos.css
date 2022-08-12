@@ -73,6 +73,18 @@ p {
   transition-duration: 2s;
 
 }
+p{
+  font-size: 15px;
+  transition-property: font-size;
+  transition-duration: 2s;
+
+}
+p:hover{
+  font-size: 25px;
+  transition-property: margin-right, color;
+  transition-property: font-size;
+  transition-duration: 0.5s;
+}
 .parrafo:hover{
   font-size: 25px;
   transition-property: margin-right, color;
