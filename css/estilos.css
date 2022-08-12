@@ -62,6 +62,8 @@ h4 {
 
 p {
   margin: 5%;
+  transition-property: font-size;
+  transition-duration: 2s;
 
   filter: invert(20%);
 }
